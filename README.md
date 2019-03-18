@@ -1,4 +1,4 @@
 # DevOps
 
 
-##Nevo &amp; Itai DevOps curse
+##Nevo &amp; Itai DevOps course
